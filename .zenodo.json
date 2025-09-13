@@ -1,0 +1,23 @@
+{
+    "creators": [
+        {
+            "name": "The Glottography Consortium"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "glottography"
+        }
+    ],
+    "title": "Glottography dataset derived from Matsumae et al. 2021 \"Exploring correlations in genetic and cultural variation across language families in northeast Asia\"",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Generic",
+        "linguistics"
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Matsumae, Hiromi, Peter Ranacher, Patrick E. Savage, Dami\u00e1n E. Blasi, Thomas E. Currie, Kae Koganebuchi, Nao Nishida, Takehiro Sato, Hideyuki Tanabe, Atsushi Tajima, Steven Brown, Mark Stoneking, Kentaro K. Shimizu, Hiroki Oota &amp; Balthasar Bickel. 2021. Exploring correlations in genetic and cultural variation across language families in northeast Asia. Science Advances 7(34). eabd9223. doi: 10.1126/sciadv.abd9223.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}

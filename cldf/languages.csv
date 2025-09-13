@@ -1,0 +1,23 @@
+ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Feature_IDs,Glottolog_Languoid_Level,Family,Speaker_Area
+ainu1240,Hokkaido Ainu,,43.633654,142.46167,ainu1240,,1,language,Ainu,languages
+chuk1273,Chukchi,,68.6436,170.045,chuk1273,,3,language,Chukotko-Kamchatkan,languages
+even1259,Evenki,,61.972,94.689,even1259,,5,language,Tungusic,languages
+even1260,Even,,70.6687,130.914,even1260,,4,language,Tungusic,languages
+kala1399,Kalaallisut,,69.3761,-52.864,kala1399,,12,language,Eskimo-Aleut,languages
+kore1280,Korean,,37.54,126.98,kore1280,,7,language,Koreanic,languages
+kory1246,Koryak,,63.8977,166.695,kory1246,,8,language,Chukotko-Kamchatkan,languages
+ngan1291,Nganasan,,73.1354,86.2106,ngan1291,,9,language,Uralic,languages
+nucl1643,Japanese,,35.0,135.0,nucl1643,,6,language,Japonic,languages
+selk1253,Selkup,,59.9409,82.3004,selk1253,,11,language,Uralic,languages
+yaku1245,Sakha,,61.69744,133.98031,yaku1245,,13,language,Turkic,languages
+ainu1252,Ainu,,,,ainu1252,,1,family,,families
+chuk1271,Chukotko-Kamchatkan,,,,chuk1271,,3 8,family,,families
+eski1264,Eskimo-Aleut,,,,eski1264,,12,family,,families
+japo1237,Japonic,,,,japo1237,,6,family,,families
+kore1284,Koreanic,,,,kore1284,,7,family,,families
+mong1349,Mongolic-Khitan,,,,mong1349,,2,family,,families
+nivk1234,Nivkh,,,,nivk1234,,10,family,,families
+tung1282,Tungusic,,,,tung1282,,4 5,family,,families
+turk1311,Turkic,,,,turk1311,,13,family,,families
+ural1272,Uralic,,,,ural1272,,9 11,family,,families
+yuka1259,Yukaghir,,,,yuka1259,,14,family,,families
