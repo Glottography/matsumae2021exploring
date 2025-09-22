@@ -1,15 +1,16 @@
-ID,Name,Description,Contributor,Citation,Glottocode,Year,Source,Media_ID,Map_Name
-1,Ainu,,,,ainu1240,2021,matsumae2021exploring,features,Fig. 1.
-2,Buryat,,,,buri1258,2021,matsumae2021exploring,features,Fig. 1.
-3,Chukchi,,,,chuk1273,2021,matsumae2021exploring,features,Fig. 1.
-4,Even,,,,even1260,2021,matsumae2021exploring,features,Fig. 1.
-5,Evenki,,,,even1259,2021,matsumae2021exploring,features,Fig. 1.
-6,Japanese,,,,nucl1643,2021,matsumae2021exploring,features,Fig. 1.
-7,Korean,,,,kore1280,2021,matsumae2021exploring,features,Fig. 1.
-8,Koryak,,,,kory1246,2021,matsumae2021exploring,features,Fig. 1.
-9,Nganasan,,,,ngan1291,2021,matsumae2021exploring,features,Fig. 1.
-10,Nivkh,,,,nivk1234,2021,matsumae2021exploring,features,Fig. 1.
-11,Selkup,,,,selk1253,2021,matsumae2021exploring,features,Fig. 1.
-12,West Greenlandic,,,,kala1399,2021,matsumae2021exploring,features,Fig. 1.
-13,Yakut,,,,yaku1245,2021,matsumae2021exploring,features,Fig. 1.
-14,Yukagir,,,,yuka1259,2021,matsumae2021exploring,features,Fig. 1.
+ID,Name,Description,Contributor,Citation,Glottocode,Year,Source,Media_IDs,Type,Map_IDs
+fig1,Fig. 1.,Geographic areas of 14 languages/populations.,,,,,matsumae2021exploring,,map,
+1,Ainu,,,,ainu1240,2021,matsumae2021exploring,features,feature,fig1
+2,Buryat,,,,buri1258,2021,matsumae2021exploring,features,feature,fig1
+3,Chukchi,,,,chuk1273,2021,matsumae2021exploring,features,feature,fig1
+4,Even,,,,even1260,2021,matsumae2021exploring,features,feature,fig1
+5,Evenki,,,,even1259,2021,matsumae2021exploring,features,feature,fig1
+6,Japanese,,,,nucl1643,2021,matsumae2021exploring,features,feature,fig1
+7,Korean,,,,kore1280,2021,matsumae2021exploring,features,feature,fig1
+8,Koryak,,,,kory1246,2021,matsumae2021exploring,features,feature,fig1
+9,Nganasan,,,,ngan1291,2021,matsumae2021exploring,features,feature,fig1
+10,Nivkh,,,,nivk1234,2021,matsumae2021exploring,features,feature,fig1
+11,Selkup,,,,selk1253,2021,matsumae2021exploring,features,feature,fig1
+12,West Greenlandic,,,,kala1399,2021,matsumae2021exploring,features,feature,fig1
+13,Yakut,,,,yaku1245,2021,matsumae2021exploring,features,feature,fig1
+14,Yukagir,,,,yuka1259,2021,matsumae2021exploring,features,feature,fig1
