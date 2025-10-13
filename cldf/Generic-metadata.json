@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/Glottography/matsumae2021exploring",
             "rdf:type": "prov:Entity",
-            "dc:created": "bcdc5cf",
+            "dc:created": "38cb62d",
             "dc:title": "Repository"
         },
         {
@@ -42,7 +42,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#MediaTable",
-            "dc:extent": 3,
+            "dc:extent": 4,
             "tableSchema": {
                 "columns": [
                     {
