@@ -45,3 +45,14 @@ cldfbench geojson.glottolog_distance cldf --format pipe
 | nucl1643 | 0.00 | True | 404 |
 | selk1253 | 0.00 | True | 6 |
 | yaku1245 | 0.00 | True | 17 |
+
+
+## Release
+
+Commit and push all changes.
+
+Run
+```
+cldfbench glottography.release cldfbench_matsumae2021exploring.py vX.Y
+```
+and follow the instructions given in the output of the command.

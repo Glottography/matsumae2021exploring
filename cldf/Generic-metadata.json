@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/Glottography/matsumae2021exploring",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0",
+            "dc:created": "v1.0-1-g039187f",
             "dc:title": "Repository"
         },
         {
